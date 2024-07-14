@@ -1,2 +1,2 @@
 # PremierLeagueStats
-Scrap data from fbref using python and insert into a sql database 
+Scraping data from fbref using python and inserting into a sql database 
